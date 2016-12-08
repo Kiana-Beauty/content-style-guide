@@ -1,8 +1,8 @@
-# Welcome to the MailChimp Content Style Guide
+# Welcome to the Kiana Beauty Content Style Guide
 
-This style guide is primarily for MailChimp employees, but we hope it’s helpful to other organizations as well.
+This style guide is primarily for the Kiana Beauty staff, as inspired by the [Mailchimp Styleguide](//styleguide.mailchimp.com) which is built upon [Middleman](https://middlemanapp.com/). 
 
-If you're looking for the MailChimp Content Style Guide website, visit [styleguide.mailchimp.com](http://styleguide.mailchimp.com).
+If you're looking for the Kiana Beauty Content Style Guide website, visit [styleguide.kianabeauty.com.au](//styleguide.kianabeauty.com.au).
 
 Whether or not you work at MailChimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
 
